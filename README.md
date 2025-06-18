@@ -7,6 +7,8 @@ An intelligent agent built using `langchain-core`, `langgraph`, and `OpenAI`, ca
 ## 🚀 Features
 
 - Built with modular LangChain packages (`langchain-core`, `langchain-openai`, `langgraph`)
+
+
 - Supports tool-based reasoning using ReAct agent
 - Integrates with OpenAI via secure `.env` API keys
 - Easy to extend with custom tools
