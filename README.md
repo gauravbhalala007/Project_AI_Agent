@@ -15,8 +15,8 @@ An intelligent agent built using `langchain-core`, `langgraph`, and `OpenAI`, ca
 
 ---
 
-Still Working on another project...
-Will upload once done.
+PROJECT 3 UPDATED AND WILL CONTINUE TO CREATE NEW PROJECTS...
+STILL NEED TO UPDATE README FOR ALL 3 PROJCTS...
 
 ## 🛠️ Installation
 
